@@ -1,7 +1,7 @@
-# Hi, I'm Olena 👋  
-Also known as Helena / Helen
+# Hi, I'm Helen 👋  
+Also known as Helena / Olena
 
-I am a Front-end Developer focused on building clean, responsive, and user-friendly web interfaces.  
+I am a Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.  
 I also have experience with Python, C, SQL, and Flask for backend and general programming tasks.
 
 ---
