@@ -29,17 +29,9 @@ I also have experience with Python, C, SQL, and Flask for backend and general pr
 
 ---
 
-<!-- ### 📌 Portfolio projects
-Here you can find my projects where I practice and apply front-end technologies:  
-- Interactive UI components  
-- Single-page applications  
-- Responsive layouts  
--->
-
----
-
 ### 📫 Contact
-- Email: helenakohun.dev@gmail.com  
+- Email: helenkohun.dev@gmail.com
+- LinkedIn: [www.linkedin.com/in/helen-kohun](www.linkedin.com/in/helen-kohun)
 - GitHub: [https://github.com/HelenKohun](https://github.com/HelenKohun)  
 
 ---
