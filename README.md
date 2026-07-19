@@ -31,6 +31,7 @@ I also have experience with Python, C, SQL, and Flask for backend and general pr
 
 ### 📫 Contact
 - Email: helenkohun.dev@gmail.com
+- Portfolio: [www.helenkohun.dev](www.helenkohun.dev)
 - LinkedIn: [www.linkedin.com/in/helen-kohun](www.linkedin.com/in/helen-kohun)
 - GitHub: [https://github.com/HelenKohun](https://github.com/HelenKohun)  
 
